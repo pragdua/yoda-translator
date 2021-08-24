@@ -1,2 +1,2 @@
-# yoda-translator
+# minion-translator
 Created with CodeSandbox
